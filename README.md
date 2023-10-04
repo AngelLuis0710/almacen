@@ -8,6 +8,8 @@ Pero sin bromas, me encantaba el tema de los ordenadores y por eso me metí en C
 ##### Mis estudios son los siguientes:
 * ESO
 * C.F.G.M Sistema Microinformáticos y Redes en I.E.S Fidiana Córdoba.
+* Nivel **_B1_** de Inglés
+
 
 Además de la informática también me gusta el deporte como el baloncesto y hacer fotografía. 🏀📷
 
@@ -59,6 +61,7 @@ Te avisé XD.
 ![atari](https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/a1/ef/4d/a1ef4d6f-24c8-88fb-f897-372dc8fddb0c/source/256x256bb.jpg)
 
 
-###### Tú ahora mismo:
-
-!
+## Tú ahora mismo:
+![pog](https://media4.giphy.com/media/FtuxXQSkmz47BEjllB/200.gif)
+)
+![wow](https://media.tenor.com/49oyq0BH6K4AAAAM/clap-kajus.gif)
