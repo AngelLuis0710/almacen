@@ -1,3 +1,2 @@
 # WHOAMI
-<font color='006400'>rojo</font>
-<span style="color:lime">lime</span> 
+<span style="color:red">cardenales</span>.
