@@ -1,2 +1,3 @@
 # WHOAMI
-<span style="color:red">cardenales</span>.
+
+$ \ color {red} {palabra roja} $
