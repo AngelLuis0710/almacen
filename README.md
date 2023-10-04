@@ -3,10 +3,12 @@
 ### Un video más mi gente pa perder el tiempo. 
 #### Mi _nombre_ es **Ángel Luis Díaz Nieto**, tengo _18_ años y soy un interesado en la _**informática**_.
 #### Okey tio me podeis llamar **"friki"** o todo lo que queráis, pero, *¿y lo malo?*. 
-#### Me adentré en el mundo de la _informática_ allá cuando acabé **4º de la ESO**, estaba seguro que quería hacer un grado medio en vez de bachillerato porque siendo sinceros, quien quiere hacer bachillerato y luego la **_selectividad_**. Creo que nadie. (*no me mateis los que si quereis*)
+#### Me adentré en el mundo de la _informática_ allá cuando acabé **4º de la ESO**, estaba seguro que quería hacer un grado medio en vez de bachillerato porque siendo sinceros, quien quiere hacer bachillerato y luego la **_selectividad_**. Creo que nadie. (*no me mateis los que si quereis*). 
+Pero sin bromas, me encantaba el tema de los ordenadores y por eso me metí en Ciclo de Grado Medio.
 ##### Mis estudios son los siguientes:
 * ESO
-* C.F.G.M Sistema Microinformáticos y Redes en I.E.S Fidiana Córdoba
+* C.F.G.M Sistema Microinformáticos y Redes en I.E.S Fidiana Córdoba.
+
 Además de la informática también me gusta el deporte como el baloncesto y hacer fotografía. 🏀📷
 
 > Muchos me preguntan...
@@ -40,8 +42,10 @@ Te avisé XD.
 
 > ¿TE ABURRES?
 
-*Juegos gratis:
 
- *[**Pac-man**](https://www.google.com/logos/2010/pacman10-i.html)
- *[**Snake**](https://www.google.com/fbx?fbx=snake_arcade)
- *[**Atari BreakOut**](https://elgoog.im/breakout/)
+* Juegos gratis:
+ * [**Pac-man**](https://www.google.com/logos/2010/pacman10-i.html)
+ 
+ * [**Snake**](https://www.google.com/fbx?fbx=snake_arcade)
+   
+ * [**Atari BreakOut**](https://elgoog.im/breakout/)
