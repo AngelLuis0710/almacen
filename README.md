@@ -39,6 +39,9 @@ Te avisé XD.
 * Aspiro a ser un mejor informático porque aún solo conozco lo básico y quiero ir mejorar.
 
 > ¿TE ABURRES?
-Juego gratis:
 
-[Pac-man](https://www.google.com/logos/2010/pacman10-i.html)
+*Juegos gratis:
+
+ *[**Pac-man**](https://www.google.com/logos/2010/pacman10-i.html)
+ *[**Snake**](https://www.google.com/fbx?fbx=snake_arcade)
+ *[**Atari BreakOut**](https://elgoog.im/breakout/)
