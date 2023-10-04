@@ -44,8 +44,16 @@ Te avisé XD.
 
 
 * Juegos gratis:
+
+ 
  * [**Pac-man**](https://www.google.com/logos/2010/pacman10-i.html)
+   
+  ![pacman](https://images.freeimages.com/fic/images/icons/385/game_stars/256/pacman.png)
  
  * [**Snake**](https://www.google.com/fbx?fbx=snake_arcade)
+
+  ![snake](https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/e0/82/67/e08267e0-fc2b-ec55-baf5-f8162cfcbf47/source/256x256bb.jpg)
    
  * [**Atari BreakOut**](https://elgoog.im/breakout/)
+
+![atari](https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/a1/ef/4d/a1ef4d6f-24c8-88fb-f897-372dc8fddb0c/source/256x256bb.jpg)
