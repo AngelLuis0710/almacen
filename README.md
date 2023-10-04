@@ -31,3 +31,14 @@ Me encanta escuchar música, jugar videojuegos y ver memes:
 
 [ WARNING!!: ¡ NO PINCHES AQUÍ ! ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+Te avisé XD.
+
+
+### Aspiraciones 
+
+* Aspiro a ser un mejor informático porque aún solo conozco lo básico y quiero ir mejorar.
+
+
+Juego gratis:
+
+[Pac-man](https://www.google.com/search?q=pacman+google&oq=pacman+&gs_lcrp=EgZjaHJvbWUqDQgBEAAYgwEYsQMYgAQyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQLhiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQLhiABDINCAkQLhivARjHARiABNIBCDIxMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
