@@ -38,7 +38,7 @@ Te avisé XD.
 
 * Aspiro a ser un mejor informático porque aún solo conozco lo básico y quiero ir mejorar.
 
-
+> ¿TE ABURRES?
 Juego gratis:
 
-[Pac-man](https://www.google.com/search?q=pacman+google&oq=pacman+&gs_lcrp=EgZjaHJvbWUqDQgBEAAYgwEYsQMYgAQyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQLhiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQLhiABDINCAkQLhivARjHARiABNIBCDIxMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+[Pac-man](https://www.google.com/logos/2010/pacman10-i.html)
