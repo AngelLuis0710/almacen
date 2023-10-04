@@ -1,3 +1,3 @@
 # WHOAMI
-<font color='red'>rojo</font>
+<font color='BLUE'>rojo</font>
 <span style="color:lime">lime</span> 
