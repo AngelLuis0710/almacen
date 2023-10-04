@@ -1,3 +1,2 @@
 # WHOAMI
-
-$ \ color {red} {palabra roja} $
+$ \color {red} {palabra roja} $
